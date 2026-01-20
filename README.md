@@ -2,8 +2,6 @@
 ## I'M ARYAN
 ## Welcome to my little corner of GitHub 🌱  
 ## Visitor Count
-
-
 ![Visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=Visitors)
 
 
