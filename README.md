@@ -1,8 +1,6 @@
 ## Hi there 👋
 ## I'M ARYAN
-## Welcome to my little corner of GitHub 🌱  ![Visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=Visitors&color=ffd1dc&style=flat)
-
-
+## Welcome to my little corner of GitHub 🌱  ![Visitor Count](https://count.getloli.com/get/@JhaAryan07?theme=moebooru)
 <!--
 **JhaAryan07/JhaAryan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
