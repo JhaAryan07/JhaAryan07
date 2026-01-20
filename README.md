@@ -1,7 +1,9 @@
 ## Hi there 👋
 ## I'M ARYAN
 ## Welcome to my little corner of GitHub 🌱  
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/cat.gif" width="300" />
+## Visitor Count
+
+![cat](https://img.shields.io/badge/🐈-meow-2f2f2f)
 
 ![Visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=VISITORS&color=2f2f2f)
 
