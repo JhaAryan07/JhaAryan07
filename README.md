@@ -4,7 +4,8 @@
 ## Visitor Count
 
 
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=Visitors)
+
 
 
 <!--
