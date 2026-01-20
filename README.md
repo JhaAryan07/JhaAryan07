@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'M ARYAN
+## Welcome to my little corner of GitHub 🌱
 <!--
 **JhaAryan07/JhaAryan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
