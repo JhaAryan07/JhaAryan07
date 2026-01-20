@@ -1,22 +1,10 @@
-## Hi there 👋
-## I'M ARYAN
-## Welcome to my little corner of GitHub 🌱  
-## Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=Visitors)
+Hi 👋  
+I'm Aryan.
 
+Welcome to my little corner of GitHub 🌱  
+Feel free to look around.
 
+—
 
-<!--
-**JhaAryan07/JhaAryan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+visitors ·  
+![visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=visitors&color=3b3b3b)
