@@ -3,9 +3,9 @@
 ## Welcome to my little corner of GitHub 🌱  
 ## Visitor Count
 
-![cat](https://img.shields.io/badge/🐈-meow-2f2f2f)
 
-![Visitors](https://komarev.com/ghpvc/?username=JhaAryan07&label=VISITORS&color=2f2f2f)
+![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **JhaAryan07/JhaAryan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
